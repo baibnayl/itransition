@@ -1,0 +1,11 @@
+dash
+plotly
+pandas
+numpy
+scipy
+gspread
+google-auth
+python-dotenv
+jinja2
+weasyprint
+kaleido
