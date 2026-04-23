@@ -291,7 +291,7 @@ Live deployment on Railway:
 
 https://remarkable-reprieve-production.up.railway.app/
 
-### Possible Future Improvements
+## Possible Future Improvements
 
 - support for affected mine count per event instead of probability
 - more advanced event shapes such as bell curves
@@ -301,7 +301,7 @@ https://remarkable-reprieve-production.up.railway.app/
 - authentication and protected report access
 - richer PDF styling and branding
 
-### Why This Project Matters
+## Why This Project Matters
 
 This project demonstrates skills relevant to data engineering and analytics:
 
